@@ -1,0 +1,78 @@
+
+/* global */
+.marginTop32
+{
+    margin-top: 32px;
+}
+
+.marginTop64
+{
+    margin-top: 64px;
+}
+
+.padding32
+{
+    padding: 32px;
+}
+
+.marginleft32
+{
+    margin-left: 32;
+}
+
+/* nav bar */
+
+.heroBackGroundImageSvg
+{
+    background-color: #0D1F40;
+    width: auto;
+    height: auto;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 64px;
+
+}
+
+.blueBoxImg
+{
+    width: auto;
+    height: 300px;
+}
+
+
+
+/* top nav */
+
+.navLogo
+{
+    width:auto;
+    height:80px; 
+}
+
+.logoText
+{
+    font-family: 'Oxygen', sans-serif;
+    color: white;
+    font-weight: 700;
+    font-size: 2rem;
+    padding-left: 40px;
+}
+
+
+.otherTopNavText
+{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-weight: 400;
+    font-size: 1.5rem;
+    margin-right: 32px;
+}
+
+
+.floatRight
+{
+    display: flex; 
+    justify-content: flex-end;
+}
+
